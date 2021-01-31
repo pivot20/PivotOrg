@@ -1,0 +1,17 @@
+# humanstxt.org/
+
+# TEAM
+
+    Edouard Reinach - Front-end Developer
+    Laurence Dolbec - Production and Studio Manager
+    Martin Viau - Technical Lead
+    Louis-Richard Tremblay - Producer
+
+# THANKS
+
+    Douglas Adam, for his entire work
+    Louis Pasteur, for inventing the first modern vaccine
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
